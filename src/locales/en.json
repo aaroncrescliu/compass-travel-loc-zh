@@ -1,0 +1,102 @@
+{
+  "common": {
+    "backToDestinations": "Back to Destinations",
+    "bookThisTrip": "Book This Trip",
+    "explorePackages": "Explore Packages",
+    "ourStory": "Our Guides",
+    "yearsExperience": "Years Experience",
+    "safetyRecord": "Safety Record",
+    "localExpertGuides": "Local Expert Guides",
+    "local": "Local",
+    "latestPackages": "LATEST PACKAGES",
+    "packagesSubtitle": "Outdoor adventures include surfing, rock climbing, mountain biking, whitewater rafting, backpacking, kayaking and much, much more. We can even customize your trip to make it an experience you’ll never forget. Just <contactLink>shoot us a message</contactLink> and we'll get right back to you.",
+    "ourPhilosophy": "Guiding Principals",
+    "guideTitle": "WE'LL BE YOUR GUIDING LIGHT",
+    "guideSubtitle": "Who knows the area better than a local? Our staff guides are native biologists, botanists, geologists, naturalists, and historians whose knowledge and infectious love of the outdoors will add immeasurably to your vacation. All guides receive extensive training and your safety is their primary concern.",
+    "philosophyItems": [
+      "Certified CPR & First Aid",
+      "Expert Local Knowledge",
+      "Safety First Training",
+      "Customized Experiences"
+    ],
+    "readyToStart": "READY TO START?",
+    "contactSubtitle": "Please fill out the following information and we will contact you regarding the tour you selected. Rest assured -- it is our policy to <strong>never</strong> sell your personal information to anyone, except as required by state or federal law.",
+    "emailUs": "Email Us",
+    "callUs": "Call Us",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "emailAddress": "Email Address",
+    "selectAdventure": "Select Adventure",
+    "sendInquiry": "Send Inquiry",
+    "all": "all",
+    "surf": "surf",
+    "bike": "bike",
+    "climb": "climb",
+    "days": "Days",
+    "perPerson": "/person",
+    "location": "Location",
+    "duration": "Duration",
+    "price": "Price",
+    "lodging": "Lodging",
+    "lodgingDetails": "Enjoy luxurious accommodations after a hard day's play at one of our 3-star or better partner hotels. Every hotel we partner with has been selected for its outstanding cleanliness and top amenities -- in fact, we only select hotels which offer a <italic>Jacuzzi</italic> for our travelers.\n\nAll amenities are free of charge to our guests, so make sure to give those tired muscles a good rest before the next day of adventure!",
+    "destinationNotFound": "Destination Not Found",
+    "backToHome": "Back to Home",
+    "gourmetDining": "Meals",
+    "gourmetDiningDetails": "Our all inclusive packages not only cover three healthy gourmet meals a day but also supply unlimited organic Clif Bars™, Gatorade® and bottled water. No need to worry about carrying snacks while you're out adventuring. We'll happily supply you with that extra burst of energy!\n\nWe also do our best to meet any special requests for kosher, halal or vegetarian/vegan meals for our participants.",
+    "expertLocalGuidance": "Expert Local Guidance",
+    "expertLocalGuidanceDetails": "All of our adventure tours equip you with an expert guide from the local area. Our guides are all professionals in their particular area of adventure expertise be it white-water rafting, rock climbing, mountain biking or surfing.\n\nWe always take your safety as top priority so all our guides are required to have current certification in CPR and First Aid. All of our guides are also equipped with emergency radios and first aid kits.",
+    "readyToBook": "Ready to Book?",
+    "secureYourSpot": "Secure your spot on this incredible {{days}}-day adventure today."
+  },
+  "images": {
+    "guide": "/images/compass.jpg",
+    "clifBar": "/images/Clif-Bar-logo.png"
+  },
+  "nav": {
+    "destinations": "Destinations",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "company": {
+    "name": "Compass Travel",
+    "tagline": "The Best in Adventure Vacations",
+    "phone": "1-800-COMPASS"
+  },
+  "hero": {
+    "title": "TRAVEL FOR THE <highlight>ADVENTUROUS</highlight> SPIRIT",
+    "subtitle": "Compass works hard to bring you the best possible trips in the United States for your rugged lifestyle. Here you can find our latest travel packages suited for the adventurous spirit. Our tours are all–inclusive and equip you with comfortable lodging, delicious meals and an expert guide from the local area."
+  },
+  "destinations": {
+    "surf": {
+      "title": "Water you waiting for?",
+      "activity": "Surfing",
+      "location": "Newport Beach, California",
+      "wedgeUrl": "https://en.wikipedia.org/wiki/The_Wedge_%28surfing%29",
+      "hotelUrl": "https://www.bayshoreshotel.com/",
+      "shortDescription": "We will call you when the surf is pumping and fly you out for five mornings of hurricane inspired summertime southern swells. Shred those waves!\u00A0\ud83c\udf0a",
+      "fullDescription": "Summertime in southern California, what could be better? Let us know what you're looking for and we'll find it and take you there. Do you want big, fast waves or gentle rollers? Do you prefer a slamming beach break or a long, peeling point break? California's got it all so sign up now before summer's gone.\n\nYou'll stay at the centrally located <hotelLink>Bay Shores Hotel</hotelLink> in Newport Beach. From there you can strike out to Trestles, Malibu, Salt Creek, <wedgeLink>The Wedge</wedgeLink>, San Onofre, and a dozen secret spots. Or, you can just walk out to the local beach breaks.",
+      "highlights": ["All levels welcome", "Summertime fun", "Famous surf locations"],
+      "buttonText": "Rip It Up!"
+    },
+    "bike": {
+      "title": "Reaching new heights.",
+      "activity": "Mountain Biking",
+      "location": "Leadville, Colorado",
+      "silverRushUrl": "https://www.leadvilleraceseries.com/mtb/silverrush50mtb/",
+      "cyclesOfLifeUrl": "https://www.colbikes.com/",
+      "shortDescription": "Beautiful scenery combined with steep inclines and fast trails allow for some great cycling. Don't forget your helmet and biking shorts...no one wants monkey butt\u00A0\ud83d\ude48",
+      "fullDescription": "Novice and experienced mountain bikers will find challenges on the rolling and hilly terrain of the Rockies. The Leadville Trail, home to the <silverRushLink>Silver Rush Race</silverRushLink>, twists around the Rocky Mountain Range and delivers over 50 miles of technical forest trail and challenging fire road climbs. During the ride, there are several vistas to soothe those eyes while you reward your burning legs by taking a quick breather.\n\nThe Rockies are the southwest’s mountain biking hub, and if you’re looking for a group of like-minded bikers, stop by the <cyclesOfLifeLink>Cycles of Life</cyclesOfLifeLink> bike shop. Or if you want a number plate on your handlebar, the Leadville Silver Rush is scheduled for 7/12/26",
+      "highlights": ["Technical", "Beautiful vistas", "Rocky Mountain Range"],
+      "buttonText": "Let's Roll!"
+    },
+    "climb": {
+      "title": "Speak of the devil!",
+      "activity": "Rock Climbing",
+      "location": "Devils Tower, Wyoming",
+      "shortDescription": "Scale the majestic cliffs of Devils Tower, the first national monument and a sacred site to over two-dozen Native American tribes. Fear of heights?...Puh-lease\u00A0\ud83d\ude44",
+      "fullDescription": "Get a grip at Wyoming's climbing Mecca, Devils Tower! This monolith stands at 865 feet and offers the beginner or the expert climber 200+ fun and challenging routes. In fact, a 6-year-old boy even conquered the Tower in 1994! The array of cracks in the walls allows you to use your imagination as you test your climbing skills.\n\nPresident Teddy Roosevelt named Devils Tower the first national monument in 1906. Today, the park hosts approximately 450,000 visitors annually and 5,000 of those visitors are climbers. Protecting this landmark area is a priority so we'll take only pictures and leave only footprints",
+      "highlights": ["200+ Routes: Beginner to Advanced", "Historic landmark", "Cultural icon"],
+      "buttonText": "Rock On!"
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "common": {
+    "backToDestinations": "返回目的地列表",
+    "bookThisTrip": "预订此行程",
+    "explorePackages": "探索各种行程套餐",
+    "ourStory": "我们的向导",
+    "yearsExperience": "年运营历史",
+    "safetyRecord": "安全记录",
+    "localExpertGuides": "当地专业向导",
+    "local": "地接",
+    "latestPackages": "最新行程套餐",
+    "packagesSubtitle": "户外探险活动包括冲浪、攀岩、山地自行车、漂流、背包旅行、皮划艇等等，应有尽有。我们甚至可以为您定制行程，让您拥有一次永生难忘的体验。只要<contactLink>给我们留言</contactLink>，我们就会尽快回复您。",
+    "ourPhilosophy": "指导原则",
+    "guideTitle": "我们是您的专业<br/>探险向导",
+    "guideSubtitle": "谁比当地人更了解您的目的地？我们的工作人员都是当地的生物学家、植物学家、地质学家、博物学家和历史学家，他们渊博的知识和对户外活动的热爱将为您的假期增添无限乐趣。所有导游都接受过大量的培训，保证您的安全是他们的第一要务。",
+    "philosophyItems": [
+      "持有心肺复苏和急救认证",
+      "本地人带您游览",
+      "安全保障培训",
+      "定制的旅行体验"
+    ],
+    "readyToStart": "准备好了？",
+    "contactSubtitle": "请填写以下信息，我们会就您选择的旅游行程与您联系。请放心，除相关法律要求外，我们<strong>绝不</strong>会将您的个人信息出售给任何人。",
+    "emailUs": "邮件",
+    "callUs": "电话",
+    "firstName": "名",
+    "lastName": "姓",
+    "emailAddress": "邮箱地址",
+    "selectAdventure": "选择探险行程",
+    "sendInquiry": "发送询价",
+    "all": "全部",
+    "surf": "冲浪",
+    "bike": "骑行",
+    "climb": "攀岩",
+    "days": "天",
+    "perPerson": "/人",
+    "location": "目的地",
+    "duration": "时长",
+    "price": "价格",
+    "lodging": "住宿",
+    "lodgingDetails": "结束一天的高强度活动后，入住我们三星级或更高级别的合作酒店，享受豪华住宿体验。我们选择的每一家合作酒店都拥有清洁的环境和一流的设施。我们只选择为客人提供<italic>按摩浴缸</italic>的酒店。所有设施均免费向客人开放，所以一定要让疲惫的肌肉好好休息，迎接第二天的冒险之旅！",
+    "destinationNotFound": "未找到目的地",
+    "backToHome": "返回首页",
+    "gourmetDining": "餐食",
+    "gourmetDiningDetails": "我们的全包套餐不仅包含健康美味的一日三餐，还提供无限量的有机能量棒、运动饮料和瓶装水。外出探险时无需担心携带零食，因为我们将乐意为您提供额外的热量补充！我们也会尽力满足客人对清真食品或素食的任何特殊要求。",
+    "expertLocalGuidance": "本地行家向导",
+    "expertLocalGuidanceDetails": "我们所有的探险行程都会为您配备当地的专业向导。我们的向导都是各自探险领域的专业人士，无论是激流漂流、攀岩、山地自行车还是冲浪。我们始终将您的安全放在首位，因此我们要求所有向导都必须持有有效的心肺复苏和急救证书。我们所有的向导都配备了应急无线电和急救箱。",
+    "readyToBook": "准备好预订了？",
+    "secureYourSpot": "立即锁定这项{{days}}日探险行程！"
+  },
+  "images": {
+    "guide": "/images/compass_zh.png",
+    "clifBar": "/images/bars_zh.png"
+  },
+  "nav": {
+    "destinations": "目的地",
+    "about": "详情",
+    "contact": "联系方式"
+  },
+  "company": {
+    "name": "指南者旅行",
+    "tagline": "探险旅行专家",
+    "phone": "1-800-266-7277"
+  },
+  "hero": {
+    "title": "为<highlight>冒险</highlight>精神<br/>而旅行",
+    "subtitle": "指南者旅行致力于为您打造最难忘的美国旅行体验，以实现您的户外探险梦想。在这里，您可以找到我们最新的旅行套餐，迎合您的冒险精神。我们的旅行团提供全包服务，包括舒适的住宿、美味的餐食和当地的专业向导。"
+  },
+  "destinations": {
+    "surf": {
+      "title": "南加州海岸<br/>冲浪体验",
+      "activity": "冲浪",
+      "location": "加利福尼亚州 纽波特海滩",
+      "wedgeUrl": "https://en.wikipedia.org/wiki/The_Wedge_%28surfing%29",
+      "hotelUrl": "https://www.bayshoreshotel.com/",
+      "shortDescription": "当海浪翻涌时，我们会电话联系您，然后带您前往海滩，享受夏季的南部涌浪。征服海浪吧！🌊",
+      "fullDescription": "南加州的夏日时光，还有什么比这更美好的呢？告诉我们您想要什么，我们会帮您找到并带您前往。您想要大而迅猛的波浪，还是轻柔的海浪？您喜欢汹涌澎湃的沙滩浪还是绵长舒缓的岬角浪？加州应有尽有，趁夏天还没结束赶紧预订吧！您将入住位于纽波特海滩镇中心的<hotelLink>湾岸酒店</hotelLink>。从那里出发，您可以前往马里布、圣奥诺弗雷等十几个冲浪胜地。或者您也可以直接步行到附近的海滩冲浪点。",
+      "highlights": ["欢迎所有水平的冲浪者", "尽享夏日乐趣", "造访冲浪胜地"],
+      "buttonText": "即刻出发！"
+    },
+    "bike": {
+      "title": "科罗拉多州<br/>山地骑行",
+      "activity": "山地自行车",
+      "location": "科罗拉多州 莱德维尔",
+      "silverRushUrl": "https://www.leadvilleraceseries.com/mtb/silverrush50mtb/",
+      "cyclesOfLifeUrl": "https://www.colbikes.com/",
+      "shortDescription": "美丽的风景，加上陡峭的山坡和适合快速骑行的小道，为骑行提供了绝佳的体验。别忘了戴头盔和骑行短裤，以避免骑行导致的擦伤和疼痛。",
+      "fullDescription": "无论是新手还是经验丰富的山地骑行者，都会在落基山脉起伏的地形中找到合适的挑战。莱德维尔小道蜿蜒环绕落基山脉，包括超过 50 英里的森林小径，考验您的骑行技术，以及具有挑战性的防火道爬坡路段。骑行过程中，沿途有几处美景可以让您放松双眼，同时您也可以稍作休息，犒劳一下酸痛的双腿。落基山脉是美国西南部的山地自行车中心，如果您想寻找一群志同道合的骑行者，不妨去<cyclesOfLifeLink>Cycles of Life</cyclesOfLifeLink>自行车店逛逛。",
+      "highlights": ["考验骑行技术", "欣赏山间美景", "游览落基山脉"],
+      "buttonText": "立即上路！"
+    },
+    "climb": {
+      "title": "魔鬼塔攀岩之旅",
+      "activity": "攀岩",
+      "location": "怀俄明州 魔鬼塔",
+      "shortDescription": "攀登雄伟的魔鬼塔悬崖，这是美国第一个国家名胜，也是二十多个美洲原住民部落的圣地。恐高？别开玩笑了！",
+      "fullDescription": "来怀俄明州的攀岩圣地——魔鬼塔，感受攀岩的刺激吧！这座巨岩高达 264 米，为初学者或经验丰富的攀岩者提供了超过 200 条有趣且具有挑战性的攀登路线。别被吓到了：1994年，一名6岁男孩也登顶了魔鬼塔！岩壁上密布的裂缝可以让您在考验自身攀岩技巧的同时，充分发挥您的想象力。1906年，西奥多·罗斯福总统将魔鬼塔指定为首个美国国家名胜。如今，该公园每年接待约 45 万名游客，其中 5000 名是攀岩者。保护这片地标区域至关重要，因此我们可以拍照，但不会留下任何废弃物。",
+      "highlights": ["超过 200 条攀岩路线：从入门到高难度", "历史地标", "文化符号"],
+      "buttonText": "勇攀高峰！"
+    }
+  }
+}

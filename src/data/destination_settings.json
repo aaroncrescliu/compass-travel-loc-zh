@@ -1,0 +1,26 @@
+{
+  "destinations": [
+    {
+      "id": "surf",
+      "price": 1200,
+      "days": 5,
+      "image": "/images/newport-surfing.jpg"
+    },
+    {
+      "id": "bike",
+      "price": 850,
+      "days": 3,
+      "image": "/images/rockies-biking.jpeg"
+    },
+    {
+      "id": "climb",
+      "price": 950,
+      "days": 3,
+      "image": "/images/devilstower-climbing.jpg"
+    }
+  ],
+  "company": {
+    "email": "info@compasstravel.com",
+    "phone": "1-800-COMPASS"
+  }
+}
